@@ -1,0 +1,16 @@
+#myButton{
+ padding: 10px;
+ margin-left: 5%;
+ background-color: aqua;
+ border-radius: 5px;
+}
+#mydiv{
+ justify-content: center;
+ margin-top: 20%;
+ margin-left: 25%;
+ padding: 25px;
+ border-radius: 5px;
+}
+body{
+    background-color: rgb(227, 129, 129);
+}
